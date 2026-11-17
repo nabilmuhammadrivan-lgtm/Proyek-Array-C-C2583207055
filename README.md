@@ -1,7 +1,7 @@
 # Proyek-Array-C-C2583207055
 Sistem Monitoring Stok dan Penjualan Kantin Kampus merupakan aplikasi berbasis console yang dibuat menggunakan bahasa pemrograman C. Program ini bertujuan untuk membantu pengelola kantin dalam mengelola data produk, memantau ketersediaan stok, serta mencatat transaksi penjualan agar lebih mudah dan teratur. Aplikasi ini dibuat sebagai solusi sederhana untuk mengurangi kesulitan dalam pencatatan stok dan perhitungan penjualan yang sebelumnya dilakukan secara manual.Program ini memiliki beberapa fitur, seperti menampilkan dan menambahkan produk, mengubah harga dan stok, melakukan transaksi penjualan, mencari serta mengurutkan produk, dan menampilkan laporan penjualan. Dalam pembuatannya, program menerapkan array satu dimensi dan array karakter dua dimensi sebagai tempat penyimpanan data, serta menggunakan percabangan, perulangan, dan fungsi. Dengan adanya program ini, diharapkan pengelolaan stok dan penjualan kantin kampus menjadi lebih praktis, terstruktur, dan mudah dilakukan.
 # Identitas Mahasiswa
-Nama: Nabil Muhammad Rivan
+Nama: Nabil Muhammad Rivan 
 NIM:  C2583207055
 Kelas: PTI 3A
 Mata Kuliah: Algoritma dan Pemrograman Lanjutan
